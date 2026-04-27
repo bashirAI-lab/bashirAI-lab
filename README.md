@@ -40,5 +40,4 @@ I specialize in bridging the gap between complex AI research and scalable produc
 ---
 *"Turning data into clinical insights, one epoch at a time."*
 
----
-*"Turning data into clinical insights, one epoch at a time."*
+
