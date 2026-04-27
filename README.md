@@ -41,6 +41,8 @@ I specialize in bridging the gap between complex AI research and scalable produc
 <a href="https://abdalabashir.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 ---
+
+
 *"Turning data into clinical insights, one epoch at a time."*
 
 
