@@ -33,8 +33,12 @@ I specialize in bridging the gap between complex AI research and scalable produc
 
 ### 📫 Connect with me:
 
-[[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Abdala Bashir)](https://www.linkedin.com/in/abdala-bashir-7121a4323?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[!Email:(abdalabashir354@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdala-bashir-7121a4323)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdalabashir354@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://abdalabashir.netlify.app/)
+
+---
+*"Turning data into clinical insights, one epoch at a time."*
 
 ---
 *"Turning data into clinical insights, one epoch at a time."*
