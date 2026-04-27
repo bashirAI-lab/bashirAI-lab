@@ -18,8 +18,9 @@ I specialize in bridging the gap between complex AI research and scalable produc
 
 ### 🚀 Key Focus Areas
 
-* **Clinical Intelligence:** Developing mortality risk and prediction systems using datasets like **MIMIC-III**.
+* **Clinical Intelligence:** Developing mortality risk and prediction systems using datasets like **heart ai predection**.
 * [🚀 View Live Demo](https://huggingface.co/spaces/abdalla6805/HeartAI-Demo)
+* 🏥 [MIMIC-III Analytics](https://huggingface.co/spaces/abdalla6805/MIMIC-Risk-Predictor) - Temporal ICU risk visualization.
 * **Autonomous Agents:** Exploring the boundaries of **Reinforcement Learning** for decision-making.
 * **SaaS Infrastructure:** Architecting modern, scalable web applications with TypeScript and Genesis-SaaS frameworks.
 
