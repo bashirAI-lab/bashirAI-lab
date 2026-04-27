@@ -34,7 +34,7 @@ I specialize in bridging the gap between complex AI research and scalable produc
 ### 📫 Connect with me:
 
 [[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Abdala Bashir)](https://www.linkedin.com/in/abdala-bashir-7121a4323?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](abdalabashir354@gmail.com)
+[!Email:(abdalabashir354@gmail.com)
 
 ---
 *"Turning data into clinical insights, one epoch at a time."*
