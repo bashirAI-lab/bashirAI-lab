@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Abdalla (bashirAI-lab) 👋
 
-<!--
-**bashirAI-lab/bashirAI-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 Machine Learning Engineer | HealthTech Enthusiast | Full-Stack Developer
 
-Here are some ideas to get you started:
+I specialize in bridging the gap between complex AI research and scalable production applications. My work focuses on **Clinical AI systems**, **Reinforcement Learning**, and building robust **SaaS architectures**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🚀 Key Focus Areas
+
+* **Clinical Intelligence:** Developing mortality risk and prediction systems using datasets like **MIMIC-III**.
+* **Autonomous Agents:** Exploring the boundaries of **Reinforcement Learning** for decision-making.
+* **SaaS Infrastructure:** Architecting modern, scalable web applications with TypeScript and Genesis-SaaS frameworks.
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bashirAI-lab&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashirAI-lab&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Abdala Bashir)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdalabashir354@gmail.com)
+
+---
+*"Turning data into clinical insights, one epoch at a time."*
